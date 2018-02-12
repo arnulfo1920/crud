@@ -45,11 +45,11 @@
 
 		<div class="container">
 			<div class="row">
-				<h2 style="text-align:center">registro de clientes</h2>
+				<h2 style="text-align:center">clientes</h2>
 			</div>
 		
 			<div class="row">
-				<a href="nuevo.php" class="btn btn-success">Nuevo Registro</a>
+				<a href="nuevo.php" class="btn btn-success">registro nuevo</a>
 				
 				<form action="<?php $_SERVER['PHP_SELF']; ?>" method="POST">
 					<b>Nombre: </b><input type="text" id="campo" name="campo" />
