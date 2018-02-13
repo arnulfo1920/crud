@@ -45,7 +45,7 @@
 
 		<div class="container">
 			<div class="row">
-				<h2 style="text-align:center">clientes</h2>
+				<h2 style="text-align:center"> registro de clientes</h2>
 			</div>
 		
 			<div class="row">
