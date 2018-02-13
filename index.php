@@ -45,7 +45,11 @@
 
 		<div class="container">
 			<div class="row">
+<<<<<<< HEAD
 				<h2 style="text-align:center">registro de clientes frecuentes </h2>
+=======
+				<h2 style="text-align:center"> registro de clientes</h2>
+>>>>>>> 82afc42d7e4a0bbf9ad076a4f351ec3e0184e18a
 			</div>
 		
 			<div class="row">
